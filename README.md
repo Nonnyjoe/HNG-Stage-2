@@ -1,4 +1,4 @@
-# Stage 0: Random Cat Fact Testing Guide
+# Stage 2: Countries Data Manipulation
 
 This guide will help you test the application endpoints and features. The server is built with Rust and Actix-web. Follow the steps below to ensure a successful test.
 
